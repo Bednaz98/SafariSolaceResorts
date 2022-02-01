@@ -1,0 +1,6 @@
+[submodule "SafariSolacePal"]
+	path = SafariSolacePal
+	url = https://github.com/Bednaz98/SafariSolacePal.git
+[submodule "SafariSolaceITTools"]
+	path = SafariSolaceITTools
+	url = https://github.com/Bednaz98/SafariSolaceITTools.git
